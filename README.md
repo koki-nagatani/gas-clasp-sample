@@ -1,4 +1,4 @@
-# gas-sample
+# gas-clasp-sample
 This is a sample program for Google Apps Script development using clasp
 
 ## Environment
@@ -19,7 +19,7 @@ npm install -g @google/clasp
 ### Installation
 1. Clone this repo
 ```
-git clone https://github.com/koki-nagatani/gas-sample.git
+git clone https://github.com/koki-nagatani/gas-clasp-sample.git
 ```
 2. Install npm packages
 ```
