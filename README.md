@@ -25,7 +25,7 @@ git clone https://github.com/koki-nagatani/gas-sample.git
 ```
 npm install
 ```
-# Usage
+### Usage
 1. clasp login
 Execute below command and then URL for Authorization is shown. Copy and paste the URL on your browser, and allow the request.
 ```
